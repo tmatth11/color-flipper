@@ -26,4 +26,4 @@ This is a fun and interactive project that allows users to generate random color
 
 ## Credits
 
-This project was inspired by the [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=419s){:target="_blank"} tutorial by FreeCodeCamp. The "Copy to Clipboard" and "Color History" features were added independently.
+This project was inspired by the <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=419s" target="_blank">Build 15 JavaScript Projects - Vanilla JavaScript Course</a> tutorial by FreeCodeCamp. The "Copy to Clipboard" and "Color History" features were added independently.
