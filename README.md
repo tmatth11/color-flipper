@@ -15,6 +15,7 @@ This is a fun and interactive project that allows users to generate random color
 - `style.css`: The CSS file that contains the styling for the page. This file included styles for the colors, headings, and components on the index.html and hex.html pages.
 - `app.js`: This provides functionality for the "Click Me" button and "Copy to Clipboard" button on the simple color picker included in `index.html`.
 - `hex.js`: This provides functionality for the "Color History" list on the more improved version of the simple color picker included in `hex.html`.
+- `icon.png`: An icon for the browser.
 
 ## How to Run
 
