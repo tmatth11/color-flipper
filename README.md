@@ -1,5 +1,7 @@
 # Color Flipper
 
+![image](https://github.com/tmatth11/color-flipper/assets/141206635/0292785b-412b-4d69-b16a-d728010a7d03)
+
 This is a fun and interactive project that allows users to generate random colors and change the background color of the page with just a click of a button!
 
 ## Features
