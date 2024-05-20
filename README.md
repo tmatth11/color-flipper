@@ -13,7 +13,7 @@ This is a fun and interactive project that allows users to generate random color
 ## Files
 
 - `index.html`: The main HTML file, which contains a simple color picker of 4 possible colors.
-- `hex.html`: A more improved version of `index.html`, which includes the "Color History" list.
+- `hex.html`: A more improved version of `index.html`, which includes the "Color History" list and the ability to generate any hex color.
 - `style.css`: The CSS file that contains the styling for the page. This file included styles for the colors, headings, and components on the index.html and hex.html pages.
 - `app.js`: This provides functionality for the "Click Me" button and "Copy to Clipboard" button on the simple color picker included in `index.html`.
 - `hex.js`: This provides functionality for the "Color History" list on the more improved version of the simple color picker included in `hex.html`.
